@@ -15,7 +15,7 @@ HamsterSTER is a social network that took inspiration from friendSTER. Instead o
 
 # Useful links
 [Offical Poster](https://github.com/michaelFarrier/HamsterSTER-Analysis/blob/master/resources/hamster-poster.pdf)
-
+[Legend](https://github.com/michaelFarrier/HamsterSTER-Analysis/blob/master/resources/network-legend.png)
 # Works Cited
 
 @MISC{konect:2016:petster-friendships-hamster,
