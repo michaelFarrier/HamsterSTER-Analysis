@@ -14,7 +14,7 @@ Cody Pranger
 HamsterSTER is a social network that took inspiration from friendSTER. Instead of friends, each user is a hamster. Hamsters can befriend other hamsters. For this project we proposed that hamster accounts added to the website on the same day and same location are most likely from the same hamster owner. To test this, we used ERGM models presented in R that presents a probability we can use to confirm or deny the given proposal. We also wanted to test the relationship of cliques and locations in the social network. Gephi was used to visualize the social network and R was used to visualize the clique behavior. For more information, see our offical poster below!
 
 # Useful links
-[Offical Poster](https://github.com/michaelFarrier/HamsterSTER-Analysis/blob/master/resources/hamster-poster.pdf)
+[Offical Poster](https://github.com/michaelFarrier/HamsterSTER-Analysis/blob/master/resources/hamster-poster.pdf)  
 [Legend](https://github.com/michaelFarrier/HamsterSTER-Analysis/blob/master/resources/network-legend.png)
 # Works Cited
 
